@@ -1,2 +1,2 @@
 # informatyka
-Magnus
+FILIP POLOWCZYK
