@@ -1,4 +1,4 @@
 # informatyka
-NWD
+NWD \n
 znajduję największy wspólny dzielnik podany przez użytkownika
 NWW
